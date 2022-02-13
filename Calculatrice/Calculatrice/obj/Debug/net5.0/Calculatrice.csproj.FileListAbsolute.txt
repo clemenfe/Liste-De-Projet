@@ -1,0 +1,12 @@
+E:\UQTR\Automne 2021\Concepts avancés en objet\TP 3\travail-3---calculatrice-clemenfe\Calculatrice\bin\Debug\net5.0\Calculatrice.deps.json
+E:\UQTR\Automne 2021\Concepts avancés en objet\TP 3\travail-3---calculatrice-clemenfe\Calculatrice\bin\Debug\net5.0\Calculatrice.dll
+E:\UQTR\Automne 2021\Concepts avancés en objet\TP 3\travail-3---calculatrice-clemenfe\Calculatrice\bin\Debug\net5.0\ref\Calculatrice.dll
+E:\UQTR\Automne 2021\Concepts avancés en objet\TP 3\travail-3---calculatrice-clemenfe\Calculatrice\bin\Debug\net5.0\Calculatrice.pdb
+E:\UQTR\Automne 2021\Concepts avancés en objet\TP 3\travail-3---calculatrice-clemenfe\Calculatrice\obj\Debug\net5.0\Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+E:\UQTR\Automne 2021\Concepts avancés en objet\TP 3\travail-3---calculatrice-clemenfe\Calculatrice\obj\Debug\net5.0\Calculatrice.AssemblyInfoInputs.cache
+E:\UQTR\Automne 2021\Concepts avancés en objet\TP 3\travail-3---calculatrice-clemenfe\Calculatrice\obj\Debug\net5.0\Calculatrice.AssemblyInfo.cs
+E:\UQTR\Automne 2021\Concepts avancés en objet\TP 3\travail-3---calculatrice-clemenfe\Calculatrice\obj\Debug\net5.0\Calculatrice.csproj.CoreCompileInputs.cache
+E:\UQTR\Automne 2021\Concepts avancés en objet\TP 3\travail-3---calculatrice-clemenfe\Calculatrice\obj\Debug\net5.0\Calculatrice.dll
+E:\UQTR\Automne 2021\Concepts avancés en objet\TP 3\travail-3---calculatrice-clemenfe\Calculatrice\obj\Debug\net5.0\ref\Calculatrice.dll
+E:\UQTR\Automne 2021\Concepts avancés en objet\TP 3\travail-3---calculatrice-clemenfe\Calculatrice\obj\Debug\net5.0\Calculatrice.pdb
+E:\UQTR\Automne 2021\Concepts avancés en objet\TP 3\travail-3---calculatrice-clemenfe\Calculatrice\obj\Debug\net5.0\Calculatrice.csproj.AssemblyReference.cache
