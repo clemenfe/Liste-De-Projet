@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3Cryptographie", "TP3Cryptographie.csproj", "{F6FA4527-D24E-4FA5-8142-B99732DED3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6FA4527-D24E-4FA5-8142-B99732DED3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FA4527-D24E-4FA5-8142-B99732DED3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FA4527-D24E-4FA5-8142-B99732DED3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FA4527-D24E-4FA5-8142-B99732DED3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A006B58B-A44D-476B-9BF8-540CB5DEF136}
+	EndGlobalSection
+EndGlobal
