@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\UQTR\Architecture Des Ordinateurs\Travaux\TP3 Félix Clément\TP3 Félix Clément\main.cpp(150,22): warning C4302: 'cast de type' : troncation de 'char *' à 'UCHAR'
+E:\UQTR\Architecture Des Ordinateurs\Travaux\TP3 Félix Clément\TP3 Félix Clément\main.cpp(157,28): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+E:\UQTR\Architecture Des Ordinateurs\Travaux\TP3 Félix Clément\TP3 Félix Clément\main.cpp(157,28): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+E:\UQTR\Architecture Des Ordinateurs\Travaux\TP3 Félix Clément\TP3 Félix Clément\main.cpp(157,28): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+E:\UQTR\Architecture Des Ordinateurs\Travaux\TP3 Félix Clément\TP3 Félix Clément\main.cpp(157,28): message : cet argument est utilisé comme taille de mémoire tampon
+  TP3 Félix Clément.vcxproj -> E:\UQTR\Architecture Des Ordinateurs\Travaux\TP3 Félix Clément\TP3 Félix Clément\Debug\TP3 Félix Clément.exe
