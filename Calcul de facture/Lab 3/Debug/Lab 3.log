@@ -1,0 +1,8 @@
+﻿  fonctions.cpp
+e:\c++\lab\lab 3\lab 3\fonctions.cpp(28): warning C4018: '<' : incompatibilité signed/unsigned
+e:\c++\lab\lab 3\lab 3\fonctions.cpp(43): warning C4018: '<' : incompatibilité signed/unsigned
+  main.cpp
+e:\c++\lab\lab 3\lab 3\main.cpp(13): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+e:\c++\lab\lab 3\lab 3\main.cpp(59): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+  Lab 3.vcxproj -> E:\C++\Lab\Lab 3\Debug\Lab 3.exe
