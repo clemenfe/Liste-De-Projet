@@ -1,0 +1,16 @@
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\bin\Debug\net5.0\Travail_Pratique_Matrice.exe
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\bin\Debug\net5.0\Travail_Pratique_Matrice.deps.json
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\bin\Debug\net5.0\Travail_Pratique_Matrice.runtimeconfig.json
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\bin\Debug\net5.0\Travail_Pratique_Matrice.runtimeconfig.dev.json
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\bin\Debug\net5.0\Travail_Pratique_Matrice.dll
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\bin\Debug\net5.0\ref\Travail_Pratique_Matrice.dll
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\bin\Debug\net5.0\Travail_Pratique_Matrice.pdb
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\obj\Debug\net5.0\Travail_Pratique_Matrice.GeneratedMSBuildEditorConfig.editorconfig
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\obj\Debug\net5.0\Travail_Pratique_Matrice.AssemblyInfoInputs.cache
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\obj\Debug\net5.0\Travail_Pratique_Matrice.AssemblyInfo.cs
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\obj\Debug\net5.0\Travail_Pratique_Matrice.csproj.CoreCompileInputs.cache
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\obj\Debug\net5.0\Travail_Pratique_Matrice.dll
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\obj\Debug\net5.0\ref\Travail_Pratique_Matrice.dll
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\obj\Debug\net5.0\Travail_Pratique_Matrice.pdb
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\obj\Debug\net5.0\Travail_Pratique_Matrice.genruntimeconfig.cache
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Travail_Pratique_Matrice\obj\Debug\net5.0\Travail_Pratique_Matrice.csproj.AssemblyReference.cache

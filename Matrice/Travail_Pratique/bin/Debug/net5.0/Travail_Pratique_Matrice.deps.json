@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Travail_Pratique_Matrice/1.0.0": {
+        "runtime": {
+          "Travail_Pratique_Matrice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Travail_Pratique_Matrice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

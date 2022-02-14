@@ -1,0 +1,5 @@
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Exécutable\Travail_Pratique_Matrice.exe
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Exécutable\Travail_Pratique_Matrice.dll
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Exécutable\Travail_Pratique_Matrice.deps.json
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Exécutable\Travail_Pratique_Matrice.runtimeconfig.json
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 2\Exécutable\Travail_Pratique_Matrice.pdb
