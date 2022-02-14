@@ -1,0 +1,16 @@
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\bin\Debug\net5.0\Devoir1.exe
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\bin\Debug\net5.0\Devoir1.deps.json
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\bin\Debug\net5.0\Devoir1.runtimeconfig.json
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\bin\Debug\net5.0\Devoir1.runtimeconfig.dev.json
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\bin\Debug\net5.0\Devoir1.dll
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\bin\Debug\net5.0\ref\Devoir1.dll
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\bin\Debug\net5.0\Devoir1.pdb
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\obj\Debug\net5.0\Devoir1.csproj.AssemblyReference.cache
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\obj\Debug\net5.0\Devoir1.GeneratedMSBuildEditorConfig.editorconfig
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\obj\Debug\net5.0\Devoir1.AssemblyInfoInputs.cache
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\obj\Debug\net5.0\Devoir1.AssemblyInfo.cs
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\obj\Debug\net5.0\Devoir1.csproj.CoreCompileInputs.cache
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\obj\Debug\net5.0\Devoir1.dll
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\obj\Debug\net5.0\ref\Devoir1.dll
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\obj\Debug\net5.0\Devoir1.pdb
+E:\UQTR\Automne 2021\Math pour informaticiens 2\Devoir\TP 1\Devoir1\obj\Debug\net5.0\Devoir1.genruntimeconfig.cache
