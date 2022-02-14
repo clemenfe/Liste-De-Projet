@@ -5,3 +5,5 @@ L'entraînement de l'*IA* est incomplet. Comme c'était un cours d'*UI*, j'ai co
 J'ai seulement inclus mes scripts, mais le projet *Unity* ainsi que le *"build"* peuvent être téléchargé ici : [One Drive Uqtr](https://uqtrsspt-my.sharepoint.com/:f:/g/personal/felix_clement_uqtr_ca/EsOve7hhYOJLjje87rmOvjkBvilO4Ukv5_eSg5VlrceXvQ?e=hXZvpa)
 
 1. La vitesse et/ou l'accélération de l'*IA* sont diminués, mais celui-ci n'ayant pas terminé son entraînement, ne suis donc pas la piste de course et fait que le changement peut ne pas être perceptible par le joueur. Ces changements ont des limites afin d'empêcher qu'un véhicule atteigne une vitesse 0 et soit dans l'incapacité de bouger.
+
+*Le projet a été fait à l'hiver 2021*
